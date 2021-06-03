@@ -1,0 +1,7 @@
+C:\Users\pervi\source\repos\ConsoleApp3 ev tapsirigi method\obj\Debug\ConsoleApp3 ev tapsirigi method.csprojAssemblyReference.cache
+C:\Users\pervi\source\repos\ConsoleApp3 ev tapsirigi method\obj\Debug\ConsoleApp3 ev tapsirigi method.csproj.CoreCompileInputs.cache
+C:\Users\pervi\source\repos\ConsoleApp3 ev tapsirigi method\bin\Debug\ConsoleApp3 ev tapsirigi method.exe.config
+C:\Users\pervi\source\repos\ConsoleApp3 ev tapsirigi method\bin\Debug\ConsoleApp3 ev tapsirigi method.exe
+C:\Users\pervi\source\repos\ConsoleApp3 ev tapsirigi method\bin\Debug\ConsoleApp3 ev tapsirigi method.pdb
+C:\Users\pervi\source\repos\ConsoleApp3 ev tapsirigi method\obj\Debug\ConsoleApp3 ev tapsirigi method.exe
+C:\Users\pervi\source\repos\ConsoleApp3 ev tapsirigi method\obj\Debug\ConsoleApp3 ev tapsirigi method.pdb
